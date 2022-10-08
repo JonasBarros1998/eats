@@ -1,6 +1,4 @@
-configuracao:
-  monolito:
-    url: http://localhost:8080
+
 spring:
   datasource:
     driverClassName: org.h2.Driver
