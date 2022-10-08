@@ -22,5 +22,3 @@ spring:
   jackson:
     serialization:
       fail-on-empty-beans: false
-  application: 
-    name: 'eats-monolito'
